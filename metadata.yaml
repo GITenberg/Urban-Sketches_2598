@@ -1,0 +1,31 @@
+_repo: Urban-Sketches_2598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A venerable impostor -- From a balcony -- Melons -- Surprising adventures
+  of Master Charles Summerton -- Sidewalkings -- A boy's dog -- Charitable reminiscences
+  -- "Seeing the steamer off" -- Neighborhoods I have moved from -- My suburban residence
+  -- On a vulgar little boy -- Waiting for the ship.
+title: Urban Sketches
+url: http://www.gutenberg.org/ebooks/2598
